@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**Oluwalolope/Oluwalolope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction 💬
+Hi there! I'm Oluwalolope Adeleye, a Frontend Developer👨‍💻 passionate about user experience, web design, and development. I also enjoy tutoring👨‍🏫 in my free time. When I'm not coding, you can find me buried in books or catching up on my favorite anime, with One Piece being my top pick!
 
-Here are some ideas to get you started:
+## Skills 💻
+- **Programming Languages**: JavaScript, HTML, CSS, SCSS/SASS.
+- **Technologies**: Github, Figma, Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me 📧
+Feel free to reach out to me via:
+- Email: Lopeadeleye@gmail.com
+- LinkedIn: [Oluwalolope Adeleye](https://www.linkedin.com/in/oluwalolopeadeleye)
+
+I'm always open to new opportunities and collaborations!
