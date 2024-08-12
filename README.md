@@ -5,8 +5,8 @@ Hi there! I'm Oluwalolope Adeleye, a Frontend Developer👨‍💻 passionate ab
 
 ## Skills 💻
 - **Programming Languages**: JavaScript, Typescript, HTML, CSS, SCSS/SASS.
-- **Frameworks/Libraries**: Bootstrap.
-- **Tools**: Git/Github(Version Control), Figma(Wireframing, Prototyping), Webpack(Module Bundler).
+- **Frameworks/Libraries**: Bootstrap, React Js.
+- **Tools**: Git/Github(Version Control), Figma(Wireframing, Prototyping), Webpack(Module Bundler), Vite (Module Bundler).
 
 ## Contact Me 📧
 Feel free to reach out to me via:
