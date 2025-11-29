@@ -5,7 +5,7 @@ Hi there! I'm Oluwalolope Adeleye, a Frontend Developer👨‍💻 passionate ab
 
 ## Skills 💻
 - **Programming Languages**: JavaScript, Typescript, HTML, CSS, SCSS/SASS.
-- **Frameworks/Libraries**: Tailwind, React Js.
+- **Frameworks/Libraries**: Tailwind CSS, React JS, Next JS.
 - **Tools**: Git/Github(Version Control), Figma(Wireframing, Prototyping), Vite (Module Bundler).
 
 ## Contact Me 📧
