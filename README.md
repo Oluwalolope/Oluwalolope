@@ -22,7 +22,7 @@ Built an end-to-end web platform for a service business with complete booking an
 * Implemented a full booking flow with Paystack payment integration.
 * Built role-based dashboards allowing the admin to manage orders, update service pricing, and track revenue.
 * Engineered user portals to book, pay, reschedule, and cancel bookings with automated email notifications.
-*React | Next.js | TailwindCSS | API Integration | Paystack | SCSS*
+*React | Next.js | TailwindCSS | API Integration | Paystack*
 
 **GPAi** | *2,000+ Active Users*
 
