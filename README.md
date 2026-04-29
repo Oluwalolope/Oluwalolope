@@ -1,6 +1,7 @@
 # Oluwalolope Adeleye
 
 **Frontend Engineer | Web & Mobile | Business-Driven Builder | Tutor**
+
 *Mechanical Engineering Undergraduate, University of Lagos*
 
 **I build interfaces that work in the real world: fast, polished, and tied directly to business outcomes.** Not just fancy demos. Actual products with real users, real payments, and real stakes.
@@ -16,6 +17,7 @@ Beyond the screen, I communicate well. I effectively translate technical require
 ### Featured Projects
 
 **ROA Cleaning & Laundry Services** | *Full Business Platform*
+
 Built an end-to-end web platform for a service business with complete booking and payment infrastructure. Designed and developed the entire client-facing and admin experience from scratch:
 * Implemented a full booking flow with Paystack payment integration.
 * Built role-based dashboards allowing the admin to manage orders, update service pricing, and track revenue.
@@ -23,6 +25,7 @@ Built an end-to-end web platform for a service business with complete booking an
 *React | Next.js | TailwindCSS | API Integration | Paystack | SCSS*
 
 **GPAi** | *2,000+ Active Users*
+
 Assisted in building an AI-powered academic assistant helping undergraduates plan, track, and predict academic outcomes. The platform integrates directly with course structures and grading systems to surface actionable grade projections for thousands of students across campuses.
 *React | TypeScript | TailwindCSS | AI Integration*
 
@@ -44,4 +47,4 @@ Assisted in building an AI-powered academic assistant helping undergraduates pla
 
 I share what I am building, learning, and thinking about regarding frontend craft, building for real businesses, and navigating engineering as a student. I am always open to discussing system architecture, business-driven development, and new opportunities.
 
-📍 Lagos, Nigeria | 📧 Lopeadeleye@outlook.com | 🐦 X: [@Oluwalolope](https://x.com/OluwalolopeA) | [LinkedIn](https://www.linkedin.com/in/oluwalolopeadeleye)
+📍 Lagos, Nigeria   |   📧 Lopeadeleye@outlook.com   |   🐦 X: [@Oluwalolope](https://x.com/OluwalolopeA)   |   [LinkedIn](https://www.linkedin.com/in/oluwalolopeadeleye)
