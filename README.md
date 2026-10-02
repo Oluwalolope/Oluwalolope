@@ -33,7 +33,7 @@ Assisted in building an AI-powered academic assistant helping undergraduates pla
 
 * **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS, SCSS/SASS
 * **Frontend & Mobile:** React, Next.js, React Native, TailwindCSS, Framer Motion
-* **Architecture & Integrations:** RESTful APIs, Third-party API Integration, Webhooks, Auth flows, WordPress (Headless/CMS)
+* **Architecture & Integrations:** RESTful APIs, Third-party API Integration, Auth flows, WordPress (Headless/CMS)
 * **Tools:** Git/GitHub, Figma, Vite, Vercel
 * **Other:** Search Engine Optimization (SEO), Google Search Console
 
